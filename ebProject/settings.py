@@ -25,7 +25,7 @@ SECRET_KEY = 'gwtp(#tc-q&@p$eg$ub-_j2m9(80rivu^-=l(r+6au23is3vjj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ebApp2-en.eba-j2ucksix.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
